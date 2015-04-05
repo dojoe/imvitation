@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="antsy.cpp" />
+    <ClCompile Include="glew\glew.c" />
+    <ClCompile Include="guicon.cpp" />
+    <ClCompile Include="helpers.cpp" />
+    <ClCompile Include="k.i.t.t.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="scn-forever.cpp" />
+    <ClCompile Include="scn-ink.cpp" />
+    <ClCompile Include="scn-pictures.cpp" />
+    <ClCompile Include="scn-rocket.cpp" />
+    <ClCompile Include="scn-cubewall.cpp" />
+    <ClCompile Include="scn-outstorm.cpp" />
+    <ClCompile Include="scn-park.cpp" />
+    <ClCompile Include="scn-lazor.cpp" />
+    <ClCompile Include="scn-end.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="antsy.h" />
+    <ClInclude Include="guicon.h" />
+    <ClInclude Include="k.i.t.t.h" />
+    <ClInclude Include="scenes.h" />
+  </ItemGroup>
+</Project>

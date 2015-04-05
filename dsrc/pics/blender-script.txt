@@ -1,0 +1,4 @@
+def doit():
+	for o in bpy.data.curves:
+		o.resolution_u = 5
+		o.extrude = 0.15
